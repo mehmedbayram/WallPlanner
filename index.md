@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/mehmedbayram/WallPlanner/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This privacy policy governs your use of the Wall Planner app for Apple devices (Mac, iPhone and iPad) that was created by Mehmet Bayram. The Application lets you export an Excel (.xlsx) file to print your wall planner of 2022.
 
-### Markdown
+# No Data Collection
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Application does not collect any information from you.
 
-```markdown
-Syntax highlighted code block
+# Changes to This Privacy Policy
 
-# Header 1
-## Header 2
-### Header 3
+The developer may update this Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. The developer will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
 
-- Bulleted
-- List
+# Support or Contact
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mehmedbayram/WallPlanner/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you have any questions or suggestions about this Privacy Policy, kindly send an email to mehmedbayram@hotmail.com with the subject line “Wall Planner Privacy Policy”.
